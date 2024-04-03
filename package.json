@@ -1,4 +1,7 @@
 {
   "name": "magidoc-github-pages-example",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@magidoc/cli": "^4.2.1"
+  }
 }
