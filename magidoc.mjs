@@ -6,6 +6,7 @@ export default {
   website: {
     template: "carbon-multi-page",
     options: {
+      siteRoot: '/magidoc-github-pages-example',
       // Custom Scalar のサンプル値を指定
       queryGenerationFactories: {
         Base64String: "BASE64_STRING",
