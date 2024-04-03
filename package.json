@@ -1,6 +1,9 @@
 {
   "name": "magidoc-github-pages-example",
   "private": true,
+  "engines": {
+    "node": "20.x"
+  },
   "devDependencies": {
     "@magidoc/cli": "^4.2.1",
     "prettier": "^3.2.5"
