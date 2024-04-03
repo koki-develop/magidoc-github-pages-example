@@ -2,6 +2,7 @@
   "name": "magidoc-github-pages-example",
   "private": true,
   "devDependencies": {
-    "@magidoc/cli": "^4.2.1"
+    "@magidoc/cli": "^4.2.1",
+    "prettier": "^3.2.5"
   }
 }
